@@ -1,0 +1,47 @@
+[
+    {
+        "nama": "Paku Kawat", 
+        "namaLatin": "Lycopodiophyta", 
+        "imageId": "kawat"
+    },
+    {
+        "nama": "Paku Sejati", 
+        "namaLatin": "Pterophyta", 
+        "imageId": "sejati"
+    },
+    {
+        "nama": "Paku Ekor Kuda", 
+        "namaLatin": "Equisetophyta", 
+        "imageId": "ekorkuda"
+    },
+    {
+        "nama": "Bambu Air", 
+        "namaLatin": "Equisetum Hyemale", 
+        "imageId": "bambuair"
+    },
+      {
+        "nama": "Suplir", 
+        "namaLatin": "Adiantum", 
+        "imageId": "suplir"
+    },
+    {
+        "nama": "Paku Pedang", 
+        "namaLatin": "Nephrolepis Cordifolia", 
+        "imageId": "pedang"
+    },
+    {
+        "nama": "Semanggi Air", 
+        "namaLatin": "Marsilea Crenata", 
+        "imageId": "semanggi"
+    },
+    {
+        "nama": "Paku Sarang Burung ", 
+        "namaLatin": "Asplenium Nidus L", 
+        "imageId": "sarang"
+    },
+    {
+        "nama": "Paku Tanduk Rusa", 
+        "namaLatin": "Platycerium", 
+        "imageId": "tanduk"
+    }
+]
