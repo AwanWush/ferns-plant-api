@@ -5,6 +5,11 @@
         "imageId": "kawat"
     },
     {
+        "nama": "Paku Telanjang", 
+        "namaLatin": "Psilophyta", 
+        "imageId": "telan"
+    },
+    {
         "nama": "Paku Sejati", 
         "namaLatin": "Pterophyta", 
         "imageId": "sejati"
